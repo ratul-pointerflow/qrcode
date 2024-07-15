@@ -3,7 +3,7 @@
 client_id = "4018b191003e5a944eddb76940742ddc"
 name = "qrcode"
 handle = "qrcode-208"
-application_url = "https://italy-popularity-courses-bit.trycloudflare.com"
+application_url = "https://vietnam-boutique-television-iso.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_metaobjects,write_products"
 
 [auth]
 redirect_urls = [
-  "https://italy-popularity-courses-bit.trycloudflare.com/auth/callback",
-  "https://italy-popularity-courses-bit.trycloudflare.com/auth/shopify/callback",
-  "https://italy-popularity-courses-bit.trycloudflare.com/api/auth/callback"
+  "https://vietnam-boutique-television-iso.trycloudflare.com/auth/callback",
+  "https://vietnam-boutique-television-iso.trycloudflare.com/auth/shopify/callback",
+  "https://vietnam-boutique-television-iso.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
